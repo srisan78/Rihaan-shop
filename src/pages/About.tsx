@@ -27,7 +27,7 @@ export default function About() {
             <div className="p-8 md:p-12 flex flex-col justify-center">
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                Founded by sports enthusiasts, Sports Srihan started as a small local shop in Hyderabad with a simple mission: to provide high-quality sports equipment accessible to everyone.
+                Founded by sports enthusiasts, Sports Srihan started as a small local shop in Venkatarayapuram with a simple mission: to provide high-quality sports equipment accessible to everyone.
               </p>
               <p className="text-gray-700 mb-4 leading-relaxed">
                 Over the years, we've grown into a trusted destination for professional athletes, fitness enthusiasts, and beginners alike. We carefully curate our collection to ensure that every product meets our strict standards for durability and performance.
@@ -78,12 +78,12 @@ export default function About() {
         <div className="bg-blue-900 text-white rounded-2xl p-8 md:p-12 text-center">
           <h2 className="text-3xl font-bold mb-6">Visit Our Store</h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-            Experience the quality of our products firsthand. Visit our flagship store in Hyderabad for expert advice and exclusive in-store offers.
+            Experience the quality of our products firsthand. Visit our flagship store in Venkatarayapuram for expert advice and exclusive in-store offers.
           </p>
           <div className="inline-flex flex-col sm:flex-row items-center justify-center gap-4">
             <div className="bg-white/10 px-6 py-3 rounded-lg backdrop-blur-sm">
               <span className="block font-bold">Location</span>
-              <span className="text-blue-200">Jubilee Hills, Hyderabad</span>
+              <span className="text-blue-200">Jubilee Hills, Venkatarayapuram</span>
             </div>
             <div className="bg-white/10 px-6 py-3 rounded-lg backdrop-blur-sm">
               <span className="block font-bold">Timings</span>
